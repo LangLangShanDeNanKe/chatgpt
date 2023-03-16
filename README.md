@@ -171,6 +171,7 @@
 💰🔐 [HoppyCopy](https://www.hoppycopy.co/)（邮箱营销）
 
 💰🔐 [Peppertype](https://www.peppertype.ai/)（营销内容）
+
 💰🔐 [MarketingBlocks](https://hey.marketingblocks.ai/)（营销内容）
 
 💰🔐 [Yaara](https://yaara.ai/)（营销内容）
