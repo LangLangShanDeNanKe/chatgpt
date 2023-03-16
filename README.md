@@ -54,7 +54,7 @@
 
 ✔️ [Notion](https://www.notion.so/)
 
-✔️ 百度文心一言
+✔️ [百度文心一言](https://yige.baidu.com/)
 
 ## 💥 进阶
 
