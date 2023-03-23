@@ -43,13 +43,13 @@
 
 ## 🔰 ChatGPT镜像网站
 
-✅🔑 [BAI Chat](https://chat.theb.ai/)
+🧗‍♀️✅🔑 [BAI Chat](https://chat.theb.ai/)
 
-✅🔑 [Chat For AI](https://chatforai.com/)
+🧗‍♀️✅🔑 [Chat For AI](https://chatforai.com/)
 
-✅🔑 [Fast GPT](https://fastgpt.app/)
+🧗‍♀️✅🔑 [Fast GPT](https://fastgpt.app/)
 
-✅🔑 [Chat35](https://chat35.com/)
+🧗‍♀️✅🔑 [Chat35](https://chat35.com/)
 
 🧗‍♀️✅🔑 [FreeGPT](https://freegpt.one/)
 
