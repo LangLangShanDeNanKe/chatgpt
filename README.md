@@ -49,8 +49,6 @@
 
 🧗‍♀️✅🔑 [Fast GPT](https://fastgpt.app/)
 
-🧗‍♀️✅🔑 [Chat35](https://chat35.com/)
-
 🧗‍♀️✅🔑 [FreeGPT](https://freegpt.one/)
 
 ## 🙏 大厂原版
