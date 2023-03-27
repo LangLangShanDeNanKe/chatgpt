@@ -1,6 +1,10 @@
+> **新视频发布了**
+
+[活捉ChatGPT手机APP！内置100个AI模型【南柯】](https://docs.qq.com/doc/DTnBGb1JEcmNtaHB6)（2023/03/27发布）
+
 > **关于B站视频下架**
 
-[感兴趣的小伙伴可以看一下](https://docs.qq.com/doc/DTm52elJ5c2FYTHlw)
+[点击查看](https://docs.qq.com/doc/DTm52elJ5c2FYTHlw)
 
 ##
 > 💡 网址均由 [浪浪山的南柯](https://space.bilibili.com/2083768762) 整理并测试，如果喜欢的话来个一键三连，将持续更新～
