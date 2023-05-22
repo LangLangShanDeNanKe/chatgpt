@@ -78,6 +78,8 @@
 
 ### 🎨 AI绘画
 
+✅ [Midjourney](https://www.midjourney.com/home/)（AI绘画）
+
 ✅ [Jrnylist](https://www.jrnylist.com/)（关键词参考）
 
 ✅ [Noonshot](https://prompt.noonshot.com/)（生成Midjourney关键词）
