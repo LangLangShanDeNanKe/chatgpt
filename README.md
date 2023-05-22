@@ -73,6 +73,8 @@
 ✅ [FUTUREPEDIA](https://www.futurepedia.io/)
 
 🚴‍♂️🔐 [Vondy](https://www.vondy.com/)
+🇨🇳 [AI中国](https://www.aicn.me/)
+
 
 ## 🎁 细分领域
 
