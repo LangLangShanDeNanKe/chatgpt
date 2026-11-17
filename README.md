@@ -108,7 +108,7 @@
 
 🧗‍♀️✅ [arXiv Xplorer](https://arxivxplorer.com/)（搜索论文）
 
-🔐💰 [HumanPen](https://humanpen.net)（12种语言文档翻译保留原排版、文档级Humanize润饰、文档精简与引用格式校正，注册赠100积分）
+🔐💰 [HumanPen](https://humanpen.net)（12种语言文档翻译尽量保留原排版、文档级Humanize润饰、文档精简与引用格式校正，注册赠100积分，商业积分制）
 
 🚴‍♂️🔐 [PandaGPT](http://pandagpt.io/)（帮你阅读生成知识图谱）
 
